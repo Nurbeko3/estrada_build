@@ -1,5 +1,12 @@
 Options -MultiViews
 
+# nginx statik fayllarni (index.html) Apache'ni chetlab o'tib to'g'ridan-to'g'ri
+# beradi — shu sababli .htaccess header'lari ishlamay qoladi. index.php orqali
+# bosh sahifa har doim Apache/PHP'dan o'tishini ta'minlaymiz (build skripti
+# dist/index.html'ni index.php + app.html'ga aylantiradi, pastdagi
+# DirectoryIndex va RewriteRule shunga moslashtirilgan).
+DirectoryIndex index.php index.html
+
 # Xavfsizlik HTTP header'lari (securityheaders.com tekshiruvi)
 <IfModule mod_headers.c>
   Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains"
@@ -41,9 +48,9 @@ RewriteRule ^portfolio-grid/?$ - [G,L]
 RewriteRule ^portfolio/beff-baffer-construction/?$ - [G,L]
 RewriteRule ^savatcha/?$ - [G,L]
 
-# React JS SPA fallback
-RewriteRule ^index\.html$ - [L]
+# React JS SPA fallback (index.php orqali — pastdagi izohga qarang)
+RewriteRule ^index\.php$ - [L]
 
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.html [L]
+RewriteRule . /index.php [L]
