@@ -616,4 +616,48 @@
     <changefreq>yearly</changefreq>
     <priority>0.5</priority>
   </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/kecha-va-bugun</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/kecha-va-bugun"/>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/kecha-va-bugun</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/kecha-va-bugun"/>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/kecha-va-bugun</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/kecha-va-bugun"/>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/kecha-va-bugun</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/kecha-va-bugun"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/kecha-va-bugun"/>
+    <lastmod>2026-08-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
