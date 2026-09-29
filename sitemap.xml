@@ -748,4 +748,48 @@
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/vacancies</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/vacancies"/>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/vacancies</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/vacancies"/>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/vacancies</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/vacancies"/>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/vacancies</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/vacancies"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/vacancies"/>
+    <lastmod>2026-09-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
 </urlset>
