@@ -441,50 +441,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://estrada-art.uz/uz/zakirov</loc>
-    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/zakirov"/>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://estrada-art.uz/ru/zakirov</loc>
-    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/zakirov"/>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://estrada-art.uz/en/zakirov</loc>
-    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/zakirov"/>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://estrada-art.uz/kr/zakirov</loc>
-    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/zakirov"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/zakirov"/>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://estrada-art.uz/uz/kecha-va-bugun</loc>
     <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/kecha-va-bugun"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/kecha-va-bugun"/>
@@ -1761,50 +1717,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://estrada-art.uz/uz/kelajakka-qadam/loyihalar</loc>
-    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/kelajakka-qadam/loyihalar"/>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://estrada-art.uz/ru/kelajakka-qadam/loyihalar</loc>
-    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/kelajakka-qadam/loyihalar"/>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://estrada-art.uz/en/kelajakka-qadam/loyihalar</loc>
-    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/kelajakka-qadam/loyihalar"/>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>https://estrada-art.uz/kr/kelajakka-qadam/loyihalar</loc>
-    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/kelajakka-qadam/loyihalar"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/kelajakka-qadam/loyihalar"/>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>https://estrada-art.uz/uz/kelajakka-qadam/kredit-mahsulotlari</loc>
     <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/kelajakka-qadam/kredit-mahsulotlari"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/kelajakka-qadam/kredit-mahsulotlari"/>
@@ -2113,6 +2025,182 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://estrada-art.uz/uz/admission/exam-results/08</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/08"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/admission/exam-results/08</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/08"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/admission/exam-results/08</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/08"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/admission/exam-results/08</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/08"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/08"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/admission/exam-results/09</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/09"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/admission/exam-results/09</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/09"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/admission/exam-results/09</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/09"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/admission/exam-results/09</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/09"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/09"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/admission/exam-results/10</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/10"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/admission/exam-results/10</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/10"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/admission/exam-results/10</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/10"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/admission/exam-results/10</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/10"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/10"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/admission/exam-results/11</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/11"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/admission/exam-results/11</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/11"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/admission/exam-results/11</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/11"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/admission/exam-results/11</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/exam-results/11"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/exam-results/11"/>
+    <lastmod>2026-10-31</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://estrada-art.uz/uz/admission/appeal-results</loc>
     <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/appeal-results"/>
     <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/appeal-results"/>
@@ -2196,50 +2284,6 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/call-center"/>
     <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/call-center"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/call-center"/>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://estrada-art.uz/uz/admission/quotas</loc>
-    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/quotas"/>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://estrada-art.uz/ru/admission/quotas</loc>
-    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/quotas"/>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://estrada-art.uz/en/admission/quotas</loc>
-    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/quotas"/>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://estrada-art.uz/kr/admission/quotas</loc>
-    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/admission/quotas"/>
-    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/admission/quotas"/>
     <lastmod>2026-10-31</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.6</priority>
@@ -2463,5 +2507,841 @@
     <lastmod>2026-10-31</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/news/item/26</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/26"/>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/news/item/26</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/26"/>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/news/item/26</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/26"/>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/news/item/26</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/26"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/26"/>
+    <lastmod>2026-10-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/news/item/24</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/24"/>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/news/item/24</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/24"/>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/news/item/24</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/24"/>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/news/item/24</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/24"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/24"/>
+    <lastmod>2026-10-23</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/news/item/23</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/23"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/news/item/23</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/23"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/news/item/23</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/23"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/news/item/23</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/23"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/23"/>
+    <lastmod>2026-10-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/news/item/22</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/22"/>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/news/item/22</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/22"/>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/news/item/22</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/22"/>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/news/item/22</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/22"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/22"/>
+    <lastmod>2026-09-08</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/news/item/21</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/21"/>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/news/item/21</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/21"/>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/news/item/21</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/21"/>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/news/item/21</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/21"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/21"/>
+    <lastmod>2026-05-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/news/item/19</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/19"/>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/news/item/19</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/19"/>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/news/item/19</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/19"/>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/news/item/19</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/19"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/19"/>
+    <lastmod>2026-05-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/news/item/18</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/18"/>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/news/item/18</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/18"/>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/news/item/18</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/18"/>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/news/item/18</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/18"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/18"/>
+    <lastmod>2026-04-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/news/item/17</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/17"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/news/item/17</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/17"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/news/item/17</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/17"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/news/item/17</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/17"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/17"/>
+    <lastmod>2026-03-30</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/news/item/16</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/16"/>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/news/item/16</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/16"/>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/news/item/16</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/16"/>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/news/item/16</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/news/item/16"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/news/item/16"/>
+    <lastmod>2026-03-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/structure/history/20</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/20"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/structure/history/20</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/20"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/structure/history/20</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/20"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/structure/history/20</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/20"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/20"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/structure/history/3</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/3"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/structure/history/3</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/3"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/structure/history/3</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/3"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/structure/history/3</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/3"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/3"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/structure/history/22</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/22"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/structure/history/22</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/22"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/structure/history/22</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/22"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/structure/history/22</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/22"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/22"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/structure/history/19</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/19"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/structure/history/19</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/19"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/structure/history/19</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/19"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/structure/history/19</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/19"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/19"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/structure/history/21</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/21"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/structure/history/21</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/21"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/structure/history/21</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/21"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/structure/history/21</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/21"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/21"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/structure/history/2</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/2"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/structure/history/2</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/2"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/structure/history/2</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/2"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/structure/history/2</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/2"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/2"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/structure/history/18</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/18"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/structure/history/18</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/18"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/structure/history/18</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/18"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/structure/history/18</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/18"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/18"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/structure/history/17</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/17"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/structure/history/17</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/17"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/structure/history/17</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/17"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/structure/history/17</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/17"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/17"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/structure/history/1</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/1"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/structure/history/1</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/1"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/structure/history/1</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/1"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/structure/history/1</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/1"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/1"/>
+    <lastmod>2026-02-09</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/uz/structure/history/16</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/16"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/ru/structure/history/16</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/16"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/en/structure/history/16</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/16"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://estrada-art.uz/kr/structure/history/16</loc>
+    <xhtml:link rel="alternate" hreflang="uz" href="https://estrada-art.uz/uz/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://estrada-art.uz/ru/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://estrada-art.uz/en/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="uz-Cyrl" href="https://estrada-art.uz/kr/structure/history/16"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://estrada-art.uz/uz/structure/history/16"/>
+    <lastmod>2026-02-16</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>

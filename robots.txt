@@ -1,5 +1,13 @@
 User-agent: *
 Allow: /
+# Admin panel (til prefiksi bilan ham ochiladi — basename tufayli)
 Disallow: /admin
+Disallow: /uz/admin
+Disallow: /ru/admin
+Disallow: /en/admin
+Disallow: /kr/admin
+# SPA kirish fayllari (postbuild: index.html → app.html + index.php shim) — bosh sahifaning nusxasi
+Disallow: /app.html
+Disallow: /index.php
 
 Sitemap: https://estrada-art.uz/sitemap.xml
